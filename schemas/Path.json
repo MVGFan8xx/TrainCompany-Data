@@ -121,13 +121,13 @@
 					"description": "Ril100 des Startbahnhofs",
 					"type": "string",
 					"minLength": 2,
-					"maxLength": 10
+					"maxLength": 20
 				},
 				"end": {
 					"description": "Ril100 des Endbahnhofs",
 					"type": "string",
 					"minLength": 2,
-					"maxLength": 10
+					"maxLength": 20
 				},
 				"twistingFactor": {
 					"description": "Kurvigkeit. 1 ist am kurvigsten",
@@ -145,7 +145,7 @@
 					"description": "Höchstgeschwindigkeit des Streckenabschnitts",
 					"type": "integer",
 					"minimum": 10,
-					"maximum": 320
+					"maximum": 360
 				},
 				"electrified": {
 					"description": "Elektrifiziert",
