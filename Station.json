@@ -10927,7 +10927,7 @@
 			"y": 604,
 			"platformLength": 211,
 			"platforms": 3,
-			"laea": 1
+			"proj": 1
 		},
 		{
 			"group": 2,
@@ -10937,7 +10937,7 @@
 			"y": 604,
 			"platformLength": 237,
 			"platforms": 2,
-			"laea": 1
+			"proj": 1
 		},
 		{
 			"group": 2,
@@ -10947,7 +10947,7 @@
 			"y": 612,
 			"platformLength": 216,
 			"platforms": 4,
-			"laea": 1
+			"proj": 1
 		},
 		{
 			"group": 2,
@@ -10957,7 +10957,7 @@
 			"y": 630,
 			"platformLength": 232,
 			"platforms": 5,
-			"laea": 1
+			"proj": 1
 		},
 		{
 			"group": 2,
@@ -10967,7 +10967,7 @@
 			"y": 638,
 			"platformLength": 227,
 			"platforms": 2,
-			"laea": 1
+			"proj": 1
 		},
 		{
 			"group": 2,
@@ -10977,7 +10977,7 @@
 			"y": 645,
 			"platformLength": 134,
 			"platforms": 2,
-			"laea": 1
+			"proj": 1
 		},
 		{
 			"group": 2,
@@ -10987,7 +10987,7 @@
 			"y": 654,
 			"platformLength": 135,
 			"platforms": 2,
-			"laea": 1
+			"proj": 1
 		},
 		{
 			"group": 2,
@@ -10997,7 +10997,7 @@
 			"y": 642,
 			"platformLength": 120,
 			"platforms": 2,
-			"laea": 1
+			"proj": 1
 		},
 		{
 			"group": 2,
@@ -11007,7 +11007,7 @@
 			"y": 646,
 			"platformLength": 188,
 			"platforms": 2,
-			"laea": 1
+			"proj": 1
 		},
 		{
 			"group": 2,
@@ -11017,7 +11017,7 @@
 			"y": 642,
 			"platformLength": 120,
 			"platforms": 2,
-			"laea": 1
+			"proj": 1
 		},
 		{
 			"group": 2,
@@ -11027,7 +11027,7 @@
 			"y": 647,
 			"platformLength": 124,
 			"platforms": 2,
-			"laea": 1
+			"proj": 1
 		},
 		{
 			"group": 2,
@@ -11037,7 +11037,7 @@
 			"y": 645,
 			"platformLength": 127,
 			"platforms": 3,
-			"laea": 1
+			"proj": 1
 		},
 		{
 			"group": 2,
